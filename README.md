@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
 
