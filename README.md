@@ -4,13 +4,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagary2j&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagary2j&theme=green_nur&margin-w=75&margin-h=75)](https://git.io/streak-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=dracula&margin-w=75&margin-h=75)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&langs_count=8&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&langs_count=8&show_icons=true&theme=dracula&margin-w=75&margin-h=75)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
