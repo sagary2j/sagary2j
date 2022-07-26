@@ -9,35 +9,38 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagary2j&label=Views&color=green&style=plastic&style=for-the-badge" alt="sagary2j" /> </p>
 
-<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently Working as Cloud DevOps Architect.
+- 🌱 I’m currently learning more about AI, CyberSecurity, Cloud.
+- 💬 Ask me about Cloud, DevOps or any tech-related stuff.
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I love to explore new places and meet new people.
 
+<!-- 
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
+ - 🤔 I’m looking for help with VelocityX documentation.
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagary2j&theme=green_nur&margin-w=75&margin-h=75)](https://git.io/streak-stats)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=dracula&margin-w=75&margin-h=75)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&langs_count=8&show_icons=true&theme=dracula&margin-w=75&margin-h=75)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**sagary2j/sagary2j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagary2j&theme=vue"/>
+</p>
 
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagary2j&theme=vue" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
