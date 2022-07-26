@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Sagar Ravkhande</h1>
+<p align="center">
+  <a href="https://https://sagary2j.github.io/Sagar-Ravkhande">Website</a> •
+  <a href="https://www.linkedin.com/in/sagar-ravkhande">LinkedIn</a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagary2j&label=Views&color=green&style=plastic&style=for-the-badge" alt="sagary2j" /> </p>
 
 <img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
@@ -27,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=sagary2j&color=green)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,8 +44,9 @@ Here are some ideas to get you started:
 <a href="http://www.twitter.com/RavkhandeSagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sagar-ravkhande/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://sagary2j.github.io/Sagar-Ravkhande" target="blank"><img align="center" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kakorot_the_super_saiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <!--
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kakorot_the_super_saiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 -->
 </p>
