@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/sagar-ravkhande">LinkedIn</a>
 </p> -->
 
+<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Working as Cloud DevOps Architect.
@@ -16,8 +18,6 @@
 - ⚡ Fun fact: I love to explore new places and meet new people.
 
 <!-- 
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
- - 🤔 I’m looking for help with VelocityX documentation.
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagary2j&theme=green_nur&margin-w=75&margin-h=75)](https://git.io/streak-stats)
