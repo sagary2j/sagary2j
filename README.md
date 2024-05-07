@@ -38,6 +38,7 @@
 - [6(R’) Strategies for Cloud Migration - All IN ONE](https://dev.to/sagary2j/6r-strategies-for-cloud-migration-all-in-one-23l8)
 - [ELK Stack Deployment using MiniKube single node architecture](https://dev.to/sagary2j/elk-stack-deployment-using-minikube-single-node-architecture-16cl)
 - [Migrating a Subversion(SVN) repository to Git/GitLab/GitHub repository](https://dev.to/sagary2j/migrating-a-subversionsvn-repository-to-gitgitlabgithub-repository-2me3)
+- [Create MongoDB Atlas Cluster With Terraform and AWS](https://dev.to/sagary2j/create-mongodb-atlas-cluster-with-terraform-and-aws-51d8)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://dev.to/sagary2j)
 
