@@ -7,10 +7,10 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently Working as Cloud DevOps Architect.
+- 🔭 I’m currently Working as a Cloud DevOps Lead.
 - 🌱 I’m currently learning more about AI, CyberSecurity, Cloud.
-- 💬 Ask me about Cloud, DevOps or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 💬 Ask me about Cloud, DevOps, or any tech-related stuff.
+- 📫 How to reach me: Check the social links below.
 - ⚡ Fun fact: I love to explore new places and meet new people.
 
 <!-- 
@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&langs_count=8&show_icons=true&theme=dracula&margin-w=75&margin-h=75)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## 💳 Github Profile Summary Card
+## 💳 GitHub Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagary2j&theme=vue"/>
 </p>
