@@ -1,17 +1,39 @@
-<h1 align="center"> Namaste 🙏, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Sagar Ravkhande</h1>
+<h1 align="center">Namaste 🙏 — I'm <strong>Sagar Ravkhande</strong></h1>
+<p align="center"><strong>DevOps Architect • Cloud • Kubernetes • Terraform • Automation</strong></p>
 
-<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+---
 
-# 💫 About Me :
-- 😄 Pronouns: He/His
-- 🔭 I’m currently Working as a Cloud DevOps Lead.
-- 🌱 I’m currently learning more about AI, CyberSecurity, Cloud.
-- 💬 Ask me about Cloud, DevOps, or any tech-related stuff.
-- 📫 How to reach me: Check the social links below.
-- ⚡ Fun fact: I love to explore new places and meet new people.
+<!-- Quick links -->
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## 💫 About Me
+- 🔭 Currently: Cloud DevOps Lead / DevOps Architect  
+- 🌱 Focus: AI, Cloud Security, DevSecOps & Automation  
+- 🧭 Experience: 13+ years delivering cloud-native platforms (AWS, Azure), Kubernetes platform engineering, Terraform, CI/CD automation  
+- ⚡ Fun: I travel, tinker with infra automation, and write technical posts
+
+---
+
+## 🛠️ Tech Stack Banner
+<p align="center">
+  <!-- Tech stack "banner" made from shields. Replace/add items to fit your stack -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab-CB3D3D?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</p>
+
+---
 
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
@@ -26,11 +48,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagary2j&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=dracula" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagary2j&theme=dracula" />
-</p>
 
 ### 📕 Latest Blog Posts
 
