@@ -1,74 +1,115 @@
-<h1 align="center">Namaste 🙏 — I'm <strong>Sagar Ravkhande</strong></h1>
-<p align="center"><strong>DevOps Architect • Cloud • Kubernetes • Terraform • Automation</strong></p>
+<h1 align="center">Namaste 🙏 I'm <strong>Sagar Ravkhande</strong></h1>
 
----
-
-<!-- Quick links -->
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#contact">Contact</a>
+  <strong>DevOps Architect | Cloud Platform Engineering | Kubernetes | Terraform | Automation</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=900&lines=Building+secure+and+scalable+cloud+platforms;13%2B+years+in+DevOps%2C+SRE%2C+and+Cloud+Architecture;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps;Automating+everything+that+can+be+automated" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sagary2j&label=Profile+Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=sagary2j&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/sagary2j?tab=followers">
+    <img src="https://img.shields.io/github/followers/sagary2j?logo=github&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/sagary2j">
+    <img src="https://img.shields.io/github/stars/sagary2j?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
-- 🔭 Currently: Cloud DevOps Lead / DevOps Architect  
-- 🌱 Focus: AI, Cloud Security, DevSecOps & Automation  
-- 🧭 Experience: 13+ years delivering cloud-native platforms (AWS, Azure), Kubernetes platform engineering, Terraform, CI/CD automation  
-- ⚡ Fun: I travel, tinker with infra automation, and write technical posts
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#impact-at-a-glance">Impact</a> •
+  <a href="#tech-toolkit">Tech Toolkit</a> •
+  <a href="#github-live-dashboard">Live Dashboard</a> •
+  <a href="#latest-blog-posts">Blogs</a> •
+  <a href="#connect-with-me">Contact</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack Banner
+## About Me
+
+- Currently: Cloud DevOps Lead / DevOps Architect
+- Focus Areas: AI-ready infrastructure, Cloud Security, DevSecOps, Platform Automation
+- Experience: 13+ years delivering cloud-native solutions across AWS and Azure
+- Core Work: Kubernetes platform engineering, Terraform modules, CI/CD and policy automation
+- Fun Fact: I travel, experiment with infra ideas, and share technical knowledge through blogs
+
+## Impact At A Glance
+
+- Designed and scaled enterprise cloud platforms for high-availability workloads
+- Built reusable IaC foundations to reduce provisioning time and configuration drift
+- Drove DevSecOps adoption by integrating security checks into CI/CD from day one
+- Helped teams move from manual ops to reliable, self-service automation
+
+## Tech Toolkit
+
 <p align="center">
-  <!-- Tech stack "banner" made from shields. Replace/add items to fit your stack -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitLab-CB3D3D?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
----
+## GitHub Live Dashboard
 
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagary2j&margin-w=75&margin-h=75)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="right" alt="Coding" width="1200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagary2j&theme=green_nur&margin-w=75&margin-h=75)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=dracula&margin-w=75&margin-h=75)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&langs_count=8&show_icons=true&theme=dracula&margin-w=75&margin-h=75)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-## 💳 GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagary2j&theme=vue"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sagary2j&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sagary2j&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagary2j&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagary2j&theme=transparent" alt="Productive time" />
+</p>
 
-### 📕 Latest Blog Posts
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagary2j&bg_color=ffffff&color=0e75b6&line=2e9ef7&point=34d399&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6(R’) Strategies for Cloud Migration - All IN ONE](https://dev.to/sagary2j/6r-strategies-for-cloud-migration-all-in-one-23l8)
+- [6(R') Strategies for Cloud Migration - All IN ONE](https://dev.to/sagary2j/6r-strategies-for-cloud-migration-all-in-one-23l8)
 - [ELK Stack Deployment using MiniKube single node architecture](https://dev.to/sagary2j/elk-stack-deployment-using-minikube-single-node-architecture-16cl)
 - [Migrating a Subversion(SVN) repository to Git/GitLab/GitHub repository](https://dev.to/sagary2j/migrating-a-subversionsvn-repository-to-gitgitlabgithub-repository-2me3)
 - [Create MongoDB Atlas Cluster With Terraform and AWS](https://dev.to/sagary2j/create-mongodb-atlas-cluster-with-terraform-and-aws-51d8)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://dev.to/sagary2j)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagary2j&label=Views&color=green&style=plastic&style=for-the-badge" alt="sagary2j" /> </p>
+➡️ [Read more posts on DEV](https://dev.to/sagary2j)
 
-<h3 align="center">Connect with me:</h3>
+## Connect With Me
+
 <p align="center">
-<a href="http://www.twitter.com/RavkhandeSagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagar-ravkhande/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://sagary2j.github.io/Sagar-Ravkhande" target="blank"><img align="center" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kakorot_the_super_saiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<!--
-<a href="https://www.instagram.com/kakorot_the_super_saiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
--->
+  <a href="http://www.twitter.com/RavkhandeSagar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sagar-ravkhande/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://sagary2j.github.io/Sagar-Ravkhande" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" alt="Website" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/kakorot_the_super_saiyan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automate with purpose. Scale with reliability. Secure by design."</i>
 </p>
