@@ -48,6 +48,24 @@
 - Drove DevSecOps adoption by integrating security checks into CI/CD from day one
 - Helped teams move from manual ops to reliable, self-service automation
 
+<p>
+Proven ability to design <b>secure, highly available, and fault-tolerant systems</b> with strong focus on:
+</p>
+
+<ul>
+  <li><b>Cloud Platforms:</b> AWS (EC2, EKS, Lambda, AWS S3, VPC, IAM), Azure (VM, Azure Storage, AKS, Azure Functions, Service 
+Bus, Azure DevOps).</li>
+  <li><b>Infrastructure as Code (IaC):</b> Terraform, Azure Bicep & ARM, CloudFormation, Ansible, Puppet, Helm.</li>
+  <li><b>Container Orchestration:</b> Kubernetes (EKS), Docker, AKS, ECS.</li>
+  <li><b>CI/CD Pipelines:</b> GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps, GitOps (OIDC, secure pipelines).</li>
+  <li><b>GitOps:</b> ArgoCD (declarative deployments).</li>
+  <li><b>Observability:</b> Prometheus, Grafana, CloudWatch, ELK, Datadog.</li>
+  <li><b>DevSecOps:</b> SonarQube (SAST), Trivy (SCA, container scanning).</li>
+  <li><b>Databases:</b> MySQL, Microsoft SQL Server, MongoDB Atlas, Redis.</li>
+  <li><b>Languages:</b> Python, Bash, Boto3.</li>
+  <li><b>Operating Systems:</b> Linux, Windows.</li>
+</ul>
+
 ## Tech Toolkit
 
 <p align="center">
