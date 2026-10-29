@@ -37,7 +37,7 @@
 
 - Currently: Cloud DevOps Lead / DevOps Architect
 - Focus Areas: AI-ready infrastructure, Cloud Security, DevSecOps, Platform Automation
-- Experience: 13+ years delivering cloud-native solutions across AWS and Azure
+- Experience: 14+ years delivering cloud-native solutions across AWS and Azure
 - Core Work: Kubernetes platform engineering, Terraform modules, CI/CD and policy automation
 - Fun Fact: I travel, experiment with infra ideas, and share technical knowledge through blogs
 
