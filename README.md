@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=900&lines=Building+secure+and+scalable+cloud+platforms;13%2B+years+in+DevOps%2C+SRE%2C+and+Cloud+Architecture;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps;Automating+everything+that+can+be+automated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=900&lines=Building+secure+and+scalable+cloud+platforms;14%2B+years+in+DevOps%2C+SRE%2C+and+Cloud+Architecture;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps;Automating+everything+that+can+be+automated" alt="Typing SVG" />
 </p>
 
 <p align="center">
