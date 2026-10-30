@@ -21,6 +21,7 @@ jobs:
           feed_list: "https://dev.to/feed/sagary2j"
           max_post_count: 5
           skip_commit: true
+          disable_html_encoding: true
 
       # main requires a reviewed PR, so changes arrive as a PR to approve.
       - uses: peter-evans/create-pull-request@v8
