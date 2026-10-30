@@ -187,23 +187,23 @@ status:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution summary" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/0-profile-details.svg" alt="Contribution summary" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/3-stats.svg" alt="GitHub stats" height="170" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/1-repos-per-language.svg" alt="Repositories per language" height="170" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
-    <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time (IST)" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/4-productive-time.svg" alt="Productive time (IST)" height="170" />
   </picture>
 </p>
 
