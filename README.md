@@ -226,7 +226,7 @@ status:
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Flask API on AWS ECS Fargate with DynamoDB and Terraform (End-to-End)](https://dev.to/aws-builders/flask-application-deployment-using-aws-ecs-and-aws-dynamodb-with-terraform-45oh)
+- [Deploy a Flask API on AWS ECS Fargate with DynamoDB and Terraform &lpar;End-to-End&rpar;](https://dev.to/aws-builders/flask-application-deployment-using-aws-ecs-and-aws-dynamodb-with-terraform-45oh)
 - [Create Azure backup of VM using Automation script in AzCli](https://dev.to/sagary2j/create-azure-backup-of-vm-using-automation-script-in-azcli-55e1)
 - [SonarQube Infrastructure Setup using AWS EC2 and PostgreSQL](https://dev.to/sagary2j/sonarqube-infrastructure-setup-using-aws-ec2-and-postgresql-3lpb)
 - [Create MongoDB Atlas Cluster With Terraform and AWS](https://dev.to/aws-builders/create-mongodb-atlas-cluster-with-terraform-and-aws-51d8)
