@@ -1,0 +1,33 @@
+name: Latest DEV posts
+
+on:
+  schedule:
+    - cron: "33 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    name: Update blog list
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://dev.to/feed/sagary2j"
+          max_post_count: 5
+          skip_commit: true
+
+      # main requires a reviewed PR, so changes arrive as a PR to approve.
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: bot/latest-dev-posts
+          delete-branch: true
+          commit-message: Update latest DEV posts
+          title: Update latest DEV posts
+          body: New posts were published on [DEV](https://dev.to/sagary2j). Approve and merge to update the profile README.
+          add-paths: README.md
