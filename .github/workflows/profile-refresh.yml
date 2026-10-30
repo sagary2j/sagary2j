@@ -32,7 +32,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           THEME: github
           TIME_ZONE: Asia/Kolkata
-          ANIMATION: fade
           AUTO_PUSH: false
 
       - run: mkdir -p dist/cards && mv profile-summary-card-output/github dist/cards/
@@ -45,7 +44,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           THEME: github_dark
           TIME_ZONE: Asia/Kolkata
-          ANIMATION: fade
           AUTO_PUSH: false
 
       - run: mv profile-summary-card-output/github_dark dist/cards/ && find dist -type f

@@ -195,22 +195,22 @@ status:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/3-stats.svg" alt="GitHub stats" height="170" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/3-stats.svg" alt="GitHub stats" width="49%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/1-repos-per-language.svg" alt="Repositories per language" height="170" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/4-productive-time.svg" />
-    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/4-productive-time.svg" alt="Productive time (IST)" height="170" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github_dark/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/sagary2j/sagary2j/output/cards/github/4-productive-time.svg" alt="Productive time (IST)" width="49%" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sagary2j&theme=github-dark-blue&hide_border=true&background=0D111700" />
-    <img src="https://streak-stats.demolab.com/?user=sagary2j&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=sagary2j&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak" width="49%" />
   </picture>
 </p>
 
