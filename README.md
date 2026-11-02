@@ -227,7 +227,7 @@ status:
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploy a Flask API on AWS ECS Fargate with DynamoDB and Terraform (End-to-End)](https://dev.to/aws-builders/flask-application-deployment-using-aws-ecs-and-aws-dynamodb-with-terraform-45oh)
-- [Create Azure backup of VM using Automation script in AzCli](https://dev.to/sagary2j/create-azure-backup-of-vm-using-automation-script-in-azcli-55e1)
+- [Automate Azure VM Backups with Az CLI: Vault Provisioning, Protection, and On-Demand Backup](https://dev.to/sagary2j/create-azure-backup-of-vm-using-automation-script-in-azcli-55e1)
 - [SonarQube Infrastructure Setup using AWS EC2 and PostgreSQL](https://dev.to/sagary2j/sonarqube-infrastructure-setup-using-aws-ec2-and-postgresql-3lpb)
 - [Create MongoDB Atlas Cluster With Terraform and AWS](https://dev.to/aws-builders/create-mongodb-atlas-cluster-with-terraform-and-aws-51d8)
 - [AWS IAM best practices to secure your resources...](https://dev.to/sagary2j/aws-iam-best-practices-to-secure-your-resources-4h4e)
